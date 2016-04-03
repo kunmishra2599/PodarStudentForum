@@ -71,10 +71,9 @@ h5{
 }
 .panel-title{
     font-size: 30px;
-    color:blue;
 }
 .panel-body{
-    background:rgb(256,256,256,0.5);
+    background:#f3f2f1;
     font-family: 'Ubuntu', sans-serif;
     font-size:20px;
     padding:50px;
