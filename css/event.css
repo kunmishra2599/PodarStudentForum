@@ -70,7 +70,7 @@ body{
 }
 @media only screen and (max-device-width: 480px) {
     .col-md-12{
-        padding:10px;
+        padding:30px;
     }
 	}
 .col-md-12 h3{
