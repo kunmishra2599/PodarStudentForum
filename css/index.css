@@ -5,6 +5,11 @@ body{
   -o-background-size: cover;
   background-size: cover;
 }
+@media only screen and (max-device-width: 480px) {
+    body{
+        background:yellow;
+    }
+	}
 
 .navbar h2{
     font-family:'Ubuntu', sans-serif;
