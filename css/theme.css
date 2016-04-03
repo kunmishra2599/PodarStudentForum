@@ -71,6 +71,7 @@ h5{
 }
 .panel-title{
     font-size: 30px;
+    color:blue;
 }
 .panel-body{
     background:rgb(256,256,256,0.5);
