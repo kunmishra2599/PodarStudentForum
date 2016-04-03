@@ -63,6 +63,11 @@ body{
     padding-right:80px;
     border-radius: 10px;
 }
+@media only screen and (max-device-width: 480px) {
+    .col-md-12{
+        padding:0px;
+    }
+	}
 h4{
     font-family: 'Ubuntu',sans-serif;
     font-weight: bold;
