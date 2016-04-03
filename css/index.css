@@ -7,8 +7,7 @@ body{
 }
 @media only screen and (max-device-width: 480px) {
     body{
-        background:yellow;
-    }
+        background: #4d79ff	;
 	}
 
 .navbar h2{
