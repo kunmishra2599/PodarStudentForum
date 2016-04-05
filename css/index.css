@@ -1,14 +1,17 @@
 body{
-     background: url('index.jpg') no-repeat center center fixed;
-     -webkit-background-size: cover;
-     -moz-background-size: cover;
-     -o-background-size: cover;
-     background-size: cover;
+    background: url('index.jpg') no-repeat center center fixed;
+    -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
 }
 @media only screen and (max-device-width: 480px) {
     body{
         background: #4d79ff	;
 	}
+    .hide {
+        display:none;
+    }
 }
 
 .navbar h2{
@@ -73,5 +76,4 @@ body{
 svg{
     height:250px;
     margin-left:-40px;
-}
 }
