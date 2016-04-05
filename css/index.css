@@ -5,15 +5,9 @@
     -o-background-size: cover;
     background-size: cover;
     }
-.hide {
-    display:block;
-}
 @media only screen and (max-device-width: 480px) {
         body{
             background: #4d79ff	;
-        }
-        .hide {
-            display:none;
         }
 }
 
