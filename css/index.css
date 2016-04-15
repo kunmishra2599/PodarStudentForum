@@ -8,7 +8,6 @@
 @media only screen and (max-device-width: 480px) {
         body{
             background: #66a3ff
-	;
         }
         .hideclass {
             display:none;
@@ -83,3 +82,4 @@
         height:250px;
         margin-left:-2.5%;
     }
+
