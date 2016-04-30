@@ -1,19 +1,11 @@
     body{
         background: url('index.jpg') no-repeat center center fixed;
         -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    background-size: cover;
-    }
-@media only screen and (max-device-width: 480px) {
-        body{
-            background: #66a3ff
-        }
-        .hideclass {
-            display:none;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+        background-size: cover;
         }
         
-}
 
     .navbar h2{
         font-family:'Ubuntu', sans-serif;
@@ -83,3 +75,50 @@
         margin-left:-2.5%;
     }
 
+@media only screen 
+        and (min-device-width : 414px) 
+        and (max-device-width : 736px) {
+            
+        body{
+            background: #66a3ff
+        }
+        .hideclass {
+            display:none;
+        }
+        
+}
+@media only screen 
+        and (min-device-width : 320px) 
+        and (max-device-width : 568px) {
+            
+        body{
+            background: #66a3ff
+        }
+        .hideclass {
+            display:none;
+        }
+        
+}
+@media only screen 
+        and (min-device-width : 320px) 
+        and (max-device-width : 480px) {
+            
+        body{
+            background: #66a3ff
+        }
+        .hideclass {
+            display:none;
+        }      
+}
+@media only screen 
+        and (min-device-width : 768px) 
+        and (max-device-width : 1024px) {
+            
+        body{
+            background: #66a3ff
+        }
+        .hideclass {
+            display:none;
+        }
+        
+}
