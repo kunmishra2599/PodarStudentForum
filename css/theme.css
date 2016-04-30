@@ -6,6 +6,18 @@ body{
   -o-background-size: cover;
   background-size: cover;
 }
+h4{
+    font-family: 'Ubuntu',sans-serif;
+    font-weight: bold;
+    text-align: center;
+}
+p{
+    font-family: 'Ubuntu', sans-serif;
+    font-size:20px;
+    padding:10px;
+    
+}
+
 
 .navbar h2{
     font-family:'Ubuntu', sans-serif;
