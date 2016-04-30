@@ -12,10 +12,17 @@ h4{
     text-align: center;
     font-size:35px;
 }
+h5{
+    font-family: 'Ubuntu',sans-serif;
+    font-weight: bold;
+    text-align: center;
+    font-size:23px;
+}
 p{
     font-family: 'Ubuntu', sans-serif;
     font-size:23px;
     padding:10px;
+    text-align: justify;
     
 }
 
