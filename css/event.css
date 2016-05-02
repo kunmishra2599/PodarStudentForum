@@ -15,12 +15,12 @@ body{
 .col-md-12 h3{
     text-align:center;
     font-family:'Ubuntu', sans-serif;
-    font-size:30px;
+    font-size:40px;
 }
 .col-md-12 p{
     text-align:justify;
     font-family:'Ubuntu', sans-serif;
-    font-size:19px;
+    font-size:25px;
 }
 .navbar {
     background-color: transparent;
