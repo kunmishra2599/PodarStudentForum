@@ -1,0 +1,187 @@
+body{
+    background: url('event.jpeg') no-repeat center center fixed;
+    background-size: cover;
+    -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.navbar h2{
+    font-family:'Ubuntu', sans-serif;
+    color:black;
+    font-size:20px;
+}
+.col-md-12 h3{
+    text-align:center;
+    font-family:'Ubuntu', sans-serif;
+    font-size:30px;
+}
+.col-md-12 p{
+    text-align:justify;
+    font-family:'Ubuntu', sans-serif;
+    font-size:25px;
+}
+.navbar {
+    background-color: transparent;
+    border:none;
+    text-align: center;
+}
+.navbar-centeralign
+{
+    position: absolute;
+    width: 100%;
+    left: 0;
+    text-align: center;
+    margin: auto;
+}
+.navbar .navbar-nav {
+  display: inline-block;
+  float: none;
+  vertical-align: top;
+}
+
+.navbar .navbar-collapse {
+  text-align: center;
+}
+.jumbotron{
+    font-family:'Ubuntu', sans-serif;
+    text-align:center;
+    background:transparent;
+    color: black;
+    margin-top:-50px;
+}
+.btn-default{
+    background:transparent;
+    border-radius: 0px;
+    border:2px solid white;
+    color: white;
+    font-family: Karla;
+}
+.navbar-default .navbar-nav > li > a {
+	color:black ;
+	font-size: 15px;
+	text-align: center;
+}
+.navbar-default .navbar-nav > li > a:hover {
+	background:rgba(0,0,0, .2);
+}
+.col-md-12{
+    background-color:rgba(256,256,256,0.7);
+    margin-top:-30px;
+    margin-bottom:30px;
+    /*padding:20px;*/
+    padding-top:40px;
+    padding-bottom:50px;
+    padding-left:80px;
+    padding-right:80px;
+    border-radius: 10px;
+}
+@media only screen 
+and (min-device-width : 414px) 
+and (max-device-width : 736px) {
+    .col-md-12{
+    background-color:rgba(256,256,256,0.7);
+    margin-top:-30px;
+    margin-bottom:30px;
+    margin-left:10px;
+    margin-right:10px;
+    /*padding:20px;*/
+    padding-top:40px;
+    padding-bottom:50px;
+    padding-left:20px;
+    padding-right:20px;
+    border-radius: 10px;
+	}
+.col-md-12 h3{
+    text-align:center;
+    font-family:'Ubuntu', sans-serif;
+    font-size:30px;
+}
+.col-md-12 p{
+    text-align:justify;
+    font-family:'Ubuntu', sans-serif;
+    font-size:19px;
+}
+} 
+@media only screen 
+and (min-device-width : 320px) 
+and (max-device-width : 568px) {
+    .col-md-12{
+    background-color:rgba(256,256,256,0.7);
+    margin-top:-30px;
+    margin-bottom:30px;
+    margin-left:10px;
+    margin-right:10px;
+    /*padding:20px;*/
+    padding-top:40px;
+    padding-bottom:50px;
+    padding-left:20px;
+    padding-right:20px;
+    border-radius: 10px;
+	}
+.col-md-12 h3{
+    text-align:center;
+    font-family:'Ubuntu', sans-serif;
+    font-size:30px;
+}
+.col-md-12 p{
+    text-align:justify;
+    font-family:'Ubuntu', sans-serif;
+    font-size:19px;
+}
+} 
+@media only screen 
+and (min-device-width : 320px) 
+and (max-device-width : 480px) {
+    .col-md-12{
+    background-color:rgba(256,256,256,0.7);
+    margin-top:-30px;
+    margin-bottom:30px;
+    margin-left:10px;
+    margin-right:10px;
+    /*padding:20px;*/
+    padding-top:40px;
+    padding-bottom:50px;
+    padding-left:20px;
+    padding-right:20px;
+    border-radius: 10px;
+	}
+.col-md-12 h3{
+    text-align:center;
+    font-family:'Ubuntu', sans-serif;
+    font-size:30px;
+}
+.col-md-12 p{
+    text-align:justify;
+    font-family:'Ubuntu', sans-serif;
+    font-size:19px;
+}
+}
+@media only screen 
+and (min-device-width : 768px) 
+and (max-device-width : 1024px) {
+    .col-md-12{
+    background-color:rgba(256,256,256,0.7);
+    margin-top:-30px;
+    margin-bottom:30px;
+    margin-left:10px;
+    margin-right:10px;
+    /*padding:20px;*/
+    padding-top:40px;
+    padding-bottom:50px;
+    padding-left:20px;
+    padding-right:20px;
+    border-radius: 10px;
+	}
+.col-md-12 h3{
+    text-align:center;
+    font-family:'Ubuntu', sans-serif;
+    font-size:30px;
+}
+.col-md-12 p{
+    text-align:justify;
+    font-family:'Ubuntu', sans-serif;
+    font-size:19px;
+}
+}  
